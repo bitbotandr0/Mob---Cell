@@ -18,3 +18,12 @@ body {
 footer {
   background: url(../img/smartphones.png);
 }
+
+
+.dark-mode-button{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 20px;
+  background: white;
+  }
